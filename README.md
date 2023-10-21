@@ -2,8 +2,8 @@
 Technohacks Data Science Internship 
 
 
-#Name: Abhishek Mane 
-#Company: TechnoHacks EduTech 
-#Domain: Data Science 
+# Name: Abhishek Mane 
+# Company: TechnoHacks EduTech 
+# Domain: Data Science 
 
-Linkedin : www.linkedin.com/in/abhishek-mane-16163a229
+Linkedin: www.linkedin.com/in/abhishek-mane-16163a229
