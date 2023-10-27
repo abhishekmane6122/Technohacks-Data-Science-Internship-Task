@@ -24,6 +24,8 @@ Datasets : ![House Sales in King County, USA](https://www.kaggle.com/datasets/ha
 
 The primary goal of this project is to predict house prices in King County, USA, using a diverse set of features, including square footage, number of bedrooms, and more. We employed a Random Forest Regression model to analyze and forecast house prices, providing a valuable tool for homebuyers and real estate professionals.
 
+
+Task 1 : https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%201%20House%20Price%20Prediction%20.ipynb
 ## Project Structure
 
 This repository is organized as follows:
