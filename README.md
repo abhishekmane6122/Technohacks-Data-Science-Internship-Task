@@ -6,7 +6,7 @@ Technohacks Data Science Internship
 # Company: TechnoHacks EduTech 
 # Domain: Data Science 
 
-Linkedin: www.linkedin.com/in/abhishek-mane-16163a229
+**Linkedin:** www.linkedin.com/in/abhishek-mane-16163a229
 
 
 
@@ -19,13 +19,17 @@ footage, number of bedrooms, etc. to train a
 model that can predict the price of a new
 house
 
-Datasets : ![House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+**Datasets:** https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
 ## Overview
 
 The primary goal of this project is to predict house prices in King County, USA, using a diverse set of features, including square footage, number of bedrooms, and more. We employed a Random Forest Regression model to analyze and forecast house prices, providing a valuable tool for homebuyers and real estate professionals.
 
 
-Task 1: https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%201%20House%20Price%20Prediction%20.ipynb
+-**Task 1**: https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%201%20House%20Price%20Prediction%20.ipynb
+
+
+
 
 
 
@@ -51,7 +55,4 @@ Social Media Sentiment Analysis is a powerful tool designed to analyze the senti
 - **Model Evaluation**: Calculate and visualize key metrics, including accuracy, precision, recall, F1-score, ROC curves, and more.
 
 
-Task 2: https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%201%20House%20Price%20Prediction%20.ipynb
-
-
-
+-**Task 2**: https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%202.%20Social%20Media%20Sentiment%20Analysis%20.ipynb
