@@ -80,5 +80,5 @@ The project consists of Jupyter Notebook cells for data exploration, preprocessi
 - Model Evaluation: Evaluating the model's performance with metrics like accuracy, confusion matrix, ROC curve, and feature importance analysis.
 
 
-**Task 3:** 
+**Task 3:** https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%203%20Employee%20Turnover%20Prediction%20.ipynb
 
