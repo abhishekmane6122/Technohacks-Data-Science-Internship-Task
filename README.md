@@ -56,3 +56,29 @@ Social Media Sentiment Analysis is a powerful tool designed to analyze the senti
 
 
 -**Task 2**: https://github.com/abhishekmane6122/Technohacks-Data-Science-Internship-Task/blob/main/Task%202.%20Social%20Media%20Sentiment%20Analysis%20.ipynb
+
+
+![Employee Attrition](https://pdancel.github.io/img/portfolio/Employee.png)
+# Task 3 : : Employee turnover prediction
+# Employee Attrition Prediction
+
+Predicting employee attrition is a crucial task for HR and organizations to retain valuable talent and optimize workforce planning. This project focuses on using machine learning to predict which employees are most likely to leave the company based on various attributes.
+
+## Dataset
+
+The dataset used in this project is a synthetic HR dataset designed for educational purposes. It contains information about fictional employees and attributes that can be used for analysis and predictive modeling. The dataset includes features such as age, education level, job role, salary, and more.
+
+[Dataset Source](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+## Code Overview
+
+The project consists of Jupyter Notebook cells for data exploration, preprocessing, model training, evaluation, and visualization. Here's a summary of the key components:
+
+- Data Exploration: Exploring the dataset, checking for missing values, and visualizing data distributions.
+- Data Preprocessing: Preparing the data for modeling, including one-hot encoding and splitting into training and testing sets.
+- Model Training: Training a Random Forest Classifier for attrition prediction.
+- Model Evaluation: Evaluating the model's performance with metrics like accuracy, confusion matrix, ROC curve, and feature importance analysis.
+
+
+**Task 3:** 
+
